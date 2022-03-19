@@ -1,0 +1,6 @@
+/*
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  X-XSS-Protection: 1; mode=block
+  Content-Security-Policy: default-src 'self'
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff

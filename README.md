@@ -1,0 +1,2 @@
+# Website
+Here's a repository containing the code to my portfolio website on https://alvarosoewardono.ga . It's powered by [SvelteKit](https://kit.svelte.dev) and hosted on [Cloudflare Pages](https://pages.cloudflare.com). It's a pretty basic static site containing some of my school projects.
