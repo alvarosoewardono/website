@@ -2,7 +2,7 @@
     <title>Home</title>
 </svelte:head>
 
-<h1>A little about me...</h1>
+<h1>A little about me</h1>
 <h2>My name's <span class="name">Alvaro Raditya Soewardono</span>. I'm a <span class="profession">student</span> born in <span class="location">Jakarta, Indonesia</span>. I like learning web & system technologies.</h2>
 
 <style>
